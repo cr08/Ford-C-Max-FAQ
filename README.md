@@ -7,3 +7,5 @@ This repository is built to house the contents of a single page website containi
 A link will soon go here to the actual hosted web page generated from the code in this repo.
 
 Stay tuned!
+
+![Creative Commons Zero CC0 License badge](https://licensebuttons.net/p/zero/1.0/88x31.png) 
